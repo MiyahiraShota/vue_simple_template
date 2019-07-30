@@ -9,9 +9,3 @@
         </ul>
     </nav>
 </template>
-
-<style lang="scss">
-    nav {
-      margin: 30px;
-    }
-</style>

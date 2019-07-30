@@ -7,7 +7,7 @@
 
 
 <script>
-import Header from './Header';
+import Header from './components/Header';
 
 export default {
   name: 'App',
@@ -19,3 +19,7 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+    @import "./scss/common.scss"
+</style>
